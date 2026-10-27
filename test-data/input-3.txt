@@ -1,0 +1,3 @@
+# Primary store empty; secondary store has torpedoes
+GT4500,0,0,10,0
+TORPEDO,SINGLE
