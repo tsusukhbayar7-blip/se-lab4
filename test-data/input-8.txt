@@ -1,0 +1,3 @@
+# Both stores stocked; primary never fails, secondary fails
+GT4500,10,0,10,1
+TORPEDO,ALL

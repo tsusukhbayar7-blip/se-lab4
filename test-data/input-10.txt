@@ -1,0 +1,3 @@
+# Primary is empty; first SINGLE shot should fall back to secondary
+GT4500,0,0,10,0
+TORPEDO,SINGLE
