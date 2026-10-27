@@ -1,0 +1,4 @@
+# First shot uses primary, second shot uses secondary
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
